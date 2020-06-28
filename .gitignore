@@ -1,0 +1,9 @@
+**/application.properties
+.classpath
+.project
+.settings/**
+target/**
+*.gz
+*.log
+.springBeans
+deploy.bat

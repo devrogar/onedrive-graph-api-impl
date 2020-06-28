@@ -1,0 +1,9 @@
+server.port=6060
+logging.file.name=app.log
+
+graph.app.client-id=
+graph.app.client-secret=
+graph.app.scopes=
+graph.app.redirect-uri=
+
+graph.files.parent-item-id=
